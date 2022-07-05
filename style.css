@@ -1,0 +1,29 @@
+body{
+
+    font-family: 'Anton', sans-serif;
+}
+h1{ font-size: 50px;}
+span{color: brown;}
+section{display:flex;}
+
+
+.half-width{width: 50%;
+padding-lef: 5%;
+
+}
+
+.half-width img{width:90%;}
+.link-button{    
+
+ text-decoration: none;
+ background-color: blue;
+ padding:10px 40px;
+ border-radius: 5px;
+color:aliceblue;
+}
+.top-banner{
+
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+
+}
