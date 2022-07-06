@@ -4,11 +4,13 @@ body{
 }
 h1{ font-size: 50px;}
 span{color: brown;}
-section{display:flex;}
+section{display:flex;
+margin-right:150px;
+}
 
 
 .half-width{width: 50%;
-padding-lef: 5%;
+padding-left: 5%;
 
 }
 
@@ -27,3 +29,13 @@ background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
 
 }
+.dream-big{
+
+background-image:url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position:right;
+}
+
+
+
+
