@@ -36,6 +36,44 @@ background-repeat: no-repeat;
 background-position:right;
 }
 
+.div k pashapasi rakhar junno{
+display: flex;
 
 
 
+}
+h3{color: yellow;}
+
+
+
+.next{
+
+    box-shadow: 10px 10px 40px grey;
+margin: 5%;
+padding-left: 10px;
+
+
+}
+
+#bg{
+
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-size: 100px;
+
+}
+#for{
+
+border-left: 7px solid crimson;
+
+}
+#last-style{
+
+border-left: 7px solid blue;
+
+}
+footer{
+
+text-align: center;
+
+}
